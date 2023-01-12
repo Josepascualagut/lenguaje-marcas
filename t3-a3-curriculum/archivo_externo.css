@@ -1,0 +1,24 @@
+body {
+    background-color:rgb(25, 204, 217);
+}
+
+h1 {
+    color:red;
+}
+
+h4 {
+    font-family:serif
+}
+
+p {
+    color:blue;
+}
+
+.aque {
+    background-color:lightblue;
+}
+
+.apellidos {
+    width:80px; 
+    overflow:auto
+}
